@@ -1,1 +1,3 @@
-console.log('Olá galera');
+const soma = require('./soma');
+
+console.log(soma(1,1));
