@@ -1,0 +1,21 @@
+{
+  "name": "aqui-educa-git-repo",
+  "version": "1.0.0",
+  "description": "Exemplo da utilização do github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjgargani/aqui-educa-git-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjgargani/aqui-educa-git-repo/issues"
+  },
+  "homepage": "https://github.com/mjgargani/aqui-educa-git-repo#readme"
+}
